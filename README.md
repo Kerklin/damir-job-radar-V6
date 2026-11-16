@@ -1,5 +1,7 @@
 # Damir Job Radar v6
 
+https://damir-job-radar-v6.streamlit.app/
+
 Automatic vacancy search for construction, infrastructure, WASH, procurement, project management and heritage roles, in Sarajevo, Bosnia and Herzegovina, the Western Balkans, Europe and UN duty stations worldwide. Every vacancy gets an explainable 0–100 fit score against Damir Hadžić's profile.
 
 Three files. No API keys, no secrets, no database, no paid services.
